@@ -1,5 +1,4 @@
 ## Node.js file uploader
----
 This repository is for [SkyLockatf1](https://github.com/SkyLockatf1) to practise.
 ### Dependencies
 ---
